@@ -30,3 +30,22 @@ img { border-radius: 50%;
 	color: red;
 	font-size: 20px;
 }
+#true {
+	color: #f9f9f9;
+	padding: 10px;
+	width: 100%;
+	max-width: 400px;
+}
+#submit {
+	height: 30px;
+	color: green;
+	width: 40%;
+}
+div.form {
+	background: -webkit-linear-gradient(DeepSkyBlue, Black);
+	padding: 10px;
+	max-width: 100%
+}
+.field {
+	max-width: 50%;
+}
